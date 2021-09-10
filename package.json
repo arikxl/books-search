@@ -1,6 +1,6 @@
 {
-  "homepage": "https://arikxl.github.io/search-books",
-  "name": "search-books",
+  "homepage": "https://arikxl.github.io/books-search",
+  "name": "books-search",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
