@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './App.css';
+import './styles/app.css';
 import SearchBar from './cmps/SearchBar';
 import BookData from './Data.json';
 
